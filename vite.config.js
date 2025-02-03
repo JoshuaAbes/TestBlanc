@@ -6,4 +6,5 @@ export default defineConfig({
     outDir: "../dist", // Output directory (relative to the ro
     emptyOutDir: true, // Clean the output directory before b
   },
+
 });
