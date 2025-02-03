@@ -1,7 +1,7 @@
 "use strict";
 
 import User from "./User.js";
-
+//
 // Fonction pour récupérer les utilisateurs depuis l'API randomuser.me
 const getRandomUser = async () => {
   const randomUser = `https://randomuser.me/api/?results=20`;
